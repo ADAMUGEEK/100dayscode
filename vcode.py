@@ -10,7 +10,7 @@ if __name__ == '__main__':
     speak("welcome")
 
     print(welcome)
-    user = input(speak("whow are you please"))
+    user = input(speak("what is your name please"))
     speak(f"hello {user} how may i help you")
     
 
